@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year undergraduate student at the National University of Singapore. My research interest includes LLM Mechanistic Interpretability, LLM/VLM Reasoning, and Learning Theory.
+I'm a fourth-year undergraduate student at the National University of Singapore. My major is Statistics, and my minors are Computer Science and Political Science.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research interest includes LLM Mechanistic Interpretability, LLM/VLM Reasoning, and Learning Theory.
 
 A data-driven personal website
 ======
