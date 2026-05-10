@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "王新铭 Daniel Xinming Wang"
 title_separator          : "-"
-name                     : &name "王新铭 Daniel Xinming Wang"
+name                     : &name "Daniel Xinming Wang"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://daniel-xinming-wang.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Daniel Xinming Wang"
   pronouns         : "he/him"# example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Fourth-year student at the National University of Singapore"
   location         : "Singapore, Singapore"
-  employer         : "National University of Singapore"
+  employer         : #"National University of Singapore"
   uri              : # URL
   email            : "xinming.wang@u.nus.edu" 
 
